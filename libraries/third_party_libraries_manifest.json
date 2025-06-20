@@ -129,15 +129,9 @@
   "libarchive": {
     "product": "libarchive",
     "vendor": "libarchive",
-    "version": "3.6.2",
-    "commit": "ba80276ccc3c941c4918ec6e2460059f0c525c43",
-    "ignored-cves": [
-      "CVE-2023-30571",
-      "CVE-2024-37407",
-      "CVE-2024-48957",
-      "CVE-2024-48958",
-      "CVE-2024-26256"
-    ]
+    "version": "3.7.9",
+    "commit": "8a7a9cc527fd1d6d8664315d3bed47c4259479cc",
+    "ignored-cves": []
   },
   "libaudit": {
     "product": "audit-userspace",
@@ -317,11 +311,9 @@
   "zlib": {
     "product": "zlib",
     "vendor": "zlib",
-    "version": "1.3",
-    "commit": "09155eaa2f9270dc4ed1fa13e2b4b2613e6e4851",
-    "ignored-cves": [
-      "CVE-2023-45853"
-    ]
+    "version": "1.3.1",
+    "commit": "51b7f2abdade71cd9bb0e7a373ef2610ec6f9daf",
+    "ignored-cves": []
   },
   "zstd": {
     "product": "zstandard",
